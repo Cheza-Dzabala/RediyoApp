@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/platforms/android/assets/www" libraries="{Rediyo/platforms/android/assets/www/node_modules}" />
+    <file url="file://$PROJECT_DIR$/platforms/android/build/intermediates/assets/debug/www" libraries="{Rediyo/platforms/android/build/intermediates/assets/debug/www/node_modules}" />
+    <file url="file://$PROJECT_DIR$/platforms/android/cordova" libraries="{Rediyo/platforms/android/cordova/node_modules}" />
+    <file url="file://$PROJECT_DIR$/www" libraries="{Rediyo/www/node_modules}" />
+  </component>
+</project>
